@@ -9,7 +9,7 @@ This repository demonstrates effective methods for image classification using Fo
 
 ### 2. Models
 
-1. Modified VGG16:
+1. VGG16 from Scratch:
     - Custom VGG16 with batch normalization.
     - CIFAR-10: Improved accuracy, Flowers: Slight decrease.
 
